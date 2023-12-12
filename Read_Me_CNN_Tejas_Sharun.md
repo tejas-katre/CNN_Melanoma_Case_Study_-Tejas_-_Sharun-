@@ -76,3 +76,5 @@ Model 3:
 2. Model is still overfitting
 
 3. The Model can be further improved by tuning the hyperparameter tuning
+
+Model can also be further improved by early stopping.
